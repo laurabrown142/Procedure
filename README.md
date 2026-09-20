@@ -1,15 +1,15 @@
 # Phishing Email Awareness Procedure
 ## Purpose
 The Purpose of this procedure is to instruct students how to identify and report phishing emails.
-##Definitions
+## Definitions
 - Phishing: A cyber-attack that attempts to get you to reveal personal information to steal your identity or money on websites that pretend to be legitimate.
 - Threat Actors: Any cyber-criminal who is attempting to gain access or information illegally. 
-##Content
+## Content
 1. Identifying the Email
 2. What to do with a Phishing Email
 3. What to do if the Phishing Attack is Successful
 4. Answers
-##Identifying the Email
+## Identifying the Email
 1. Look at the sender's address. Often threat actors will attempt to impersonate familiar people or organizations. When inspecting a suspicous email check the address for variations from who is being impersonated. 
 2. Check the content of the email for red flags. These may include: 
  -Poor spelling or grammar
@@ -30,7 +30,7 @@ The Purpose of this procedure is to instruct students how to identify and report
 6. Analyze the following website. How many red flags does it have? 
 ![Image 2] ()
 7. Click here to see the awnser. 
-##What to do with a Phishing Email
+## What to do with a Phishing Email
 1. Do not click on any links or attatchments within the email. 
    **Caution:**Clicking a link or attatchment can expose the device to cyber threats like identity theft and malware installation.
 2. Report the message by clicking on the three dots in the left corner. A drop-down menu will appear. Click on Report Phishing. 
@@ -42,7 +42,7 @@ The Purpose of this procedure is to instruct students how to identify and report
 3. Confirm that multifactor authentication is enabled on every other account. This will further improve the saftey of your account. 
 4. Notify the IT department of the possible attack. 
 Motify any external agency that may have been affected. Ex. If you submitted a password that you also use for your bank account, the bank should be notified of the possible fraudlent activity. 
-##Answers 
+## Answers 
 1. The email:
  - There is a created sense of urgency in the subject line.
  - There is a generic greeting.
@@ -52,4 +52,3 @@ Motify any external agency that may have been affected. Ex. If you submitted a p
  - The website design is not within typical NC State Branding, despite the logo.
  - The site requests unnecessary and sensitive information.
  - The URL is misspelled. 
- 
