@@ -16,9 +16,9 @@ The purpose of this procedure is to instruct students how to identify and report
    - Created sense of urgency
    - Genaric greeting
    - Suspicous links or attatchments
-   - mispelled or unrelated sense
-   - requests for sensitive information
-   -ususual logos or branding
+   - Mispelled or unrelated sense
+   - Requests for sensitive information
+   - Unusual logos or branding
 3. Analyze the following email. How many red flags does it have? 
 
  ![Image 1](image.png)
