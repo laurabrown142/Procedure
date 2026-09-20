@@ -20,7 +20,10 @@ The purpose of this procedure is to instruct students how to identify and report
    - requests for sensitive information
    -ususual logos or branding
 3. Analyze the following email. How many red flags does it have? 
-![Image 1](</workspaces/Procedure/Figure #1-1.png>) 
+
+ ![Image 1](image.png)
+   Figure 1: Example Phishing Email
+
 4. The awnser can be found in the Awnser section. 
 5. If you click on the link, analyze the website for red flags. These may include:
     - Requests for sensitive information
@@ -28,14 +31,19 @@ The purpose of this procedure is to instruct students how to identify and report
     - Misspelled URL
     - Grammar or spelling mistakes
 6. Analyze the following website. How many red flags does it have? 
-![Image 2] ()
+ ![Image 2](image-1.png)
+   
+Figure 2: Example Pishing Website
+
 7. The awnser can be found in the awnser section. 
 ## What to do with a Phishing Email
 1. Do not click on any links or attatchments within the email. 
    
    **Caution**: Clicking a link or attatchment can expose the device to cyber threats like identity theft and malware installation.
 2. Report the message by clicking on the three dots in the left corner. A drop-down menu will appear. Click on Report Phishing. 
-![Image 3] ()
+![Image 3](image-2.png)
+Figure 3: Path
+
 3. Delete the message to reduce the risk of clicking on it later. 
 ## What to do if the Phishing Attack is successful. 
 1. Write down as many details about the attack as you can remember. Take particular care to write down any information that was shared. 
