@@ -20,8 +20,7 @@ The purpose of this procedure is to instruct students how to identify and report
    - requests for sensitive information
    -ususual logos or branding
 3. Analyze the following email. How many red flags does it have? 
-![Image 1](<Figure #1-1.png>)
-
+![Image 1](</workspaces/Procedure/Figure #1-1.png>) 
 4. The awnser can be found in the Awnser section. 
 5. If you click on the link, analyze the website for red flags. These may include:
     - Requests for sensitive information
