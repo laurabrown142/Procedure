@@ -1,6 +1,6 @@
 # Phishing Email Awareness Procedure
 ## Purpose
-The Purpose of this procedure is to instruct students how to identify and report phishing emails.
+The purpose of this procedure is to instruct students how to identify and report phishing emails.
 ## Definitions
 - Phishing: A cyber-attack that attempts to get you to reveal personal information to steal your identity or money on websites that pretend to be legitimate.
 - Threat Actors: Any cyber-criminal who is attempting to gain access or information illegally. 
@@ -12,7 +12,7 @@ The Purpose of this procedure is to instruct students how to identify and report
 ## Identifying the Email
 1. Look at the sender's address. Often threat actors will attempt to impersonate familiar people or organizations. When inspecting a suspicous email check the address for variations from who is being impersonated. 
 2. Check the content of the email for red flags. These may include: 
-   -Poor spelling or grammar
+   - Poor spelling or grammar
    - Created sense of urgency
    - Genaric greeting
    - Suspicous links or attatchments
@@ -20,18 +20,20 @@ The Purpose of this procedure is to instruct students how to identify and report
    - requests for sensitive information
    -ususual logos or branding
 3. Analyze the following email. How many red flags does it have? 
-![Image 1]()
+![Image 1](<Figure #1-1.png>)
+
 4. The awnser can be found in the Awnser section. 
 5. If you click on the link, analyze the website for red flags. These may include:
-    -Requests for sensitive information
-    -Unusual or off-looking desing or branding
+    - Requests for sensitive information
+    - Unusual or off-looking desing or branding
     - Misspelled URL
     - Grammar or spelling mistakes
 6. Analyze the following website. How many red flags does it have? 
 ![Image 2] ()
-7. The Awnser can be found in the awnser section. 
+7. The awnser can be found in the awnser section. 
 ## What to do with a Phishing Email
 1. Do not click on any links or attatchments within the email. 
+   
    **Caution**: Clicking a link or attatchment can expose the device to cyber threats like identity theft and malware installation.
 2. Report the message by clicking on the three dots in the left corner. A drop-down menu will appear. Click on Report Phishing. 
 ![Image 3] ()
