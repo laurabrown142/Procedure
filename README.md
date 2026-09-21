@@ -46,7 +46,7 @@ Figure 2: Example Pishing Website
 Figure 3: Path
 
 3. Delete the message to reduce the risk of clicking on it later. 
-## What to do if the Phishing Attack is successful. 
+## What to do if the Phishing Attack is Successful. 
 1. Write down as many details about the attack as you can remember. Take particular care to write down any information that was shared. 
 2. Change the passwords on all impacted accounts. This may prevent further breaches. 
 3. Confirm that multifactor authentication is enabled on every other account. This will further improve the saftey of your account. 
