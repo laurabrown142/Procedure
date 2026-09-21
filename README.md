@@ -31,8 +31,8 @@ The purpose of this procedure is to instruct students how to identify and report
     - Misspelled URL
     - Grammar or spelling mistakes
 6. Analyze the following website. How many red flags does it have? 
- ![Image 2](image-1.png)
-   
+
+![Image 2](image-1.png)
 Figure 2: Example Pishing Website
 
 7. The awnser can be found in the awnser section. 
