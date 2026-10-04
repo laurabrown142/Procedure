@@ -5,3 +5,12 @@
 <!ELEMENT credits (#PCDATA)>
 <!ELEMENT prerequisites(#PCDATA)>
 <!ELEMENT semester (#PCDATA)>
+<course list> 
+  <title> ENG 362- Buissness and Professional Writing </title>
+  <description>
+    <focus> A Wrting Intensive course focused on practice with professional documents including hiring materials, proposals, evaluations, and memos.</focus>
+    <skills> Particular emphasis is placed on collaborative writing, editing, and project-based writing.</skills>
+  <credits> Credits:3</credits>
+  <prerequisites>Required Prerequisites: ENG 111 </prerequisites>
+  <semester> Semester Offfered: Fall, Spring </Semester>
+</course list>
