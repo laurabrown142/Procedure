@@ -8,17 +8,20 @@
 
 <?xml version= "1.0" encoding "UTF"-8?>   
 <!DOCTYPE Course list "course.dtd">  
-<?xml-stylesheet type= "text/css” href= "course.css”>  
-<course-list>   
-  <title> ENG 362- Buisness and Professional Writing <title\>  
-  <description>  
-    <focus> A Writing Intensive course focused on practice with professional documents including hiring materials, proposals, evaluations, and memos.<focus\>  
-    <skills> Particular emphasis is placed on collaborative writing, editing, and project-based writing.<skills\>  
-  <credits> Credits:3 <credits\>  
-  <prerequisites>Required Prerequisites: ENG 111 <prerequisites\>  
-  <semester> Semester Offfered: Fall, Spring <semester\>  
-<course-list\>
+<?xml-stylesheet type= "text/css” href= "course.css”> 
 
+<course-list>   
+<title> ENG 362: Business and Professional Writing </title>  
+  <description>  
+    <focus> A Writing Intensive course focused on practice with professional documents including hiring materials, proposals, evaluations, and memos.</focus>  
+    <skills> Particular emphasis is placed on collaborative writing, editing, and project-based writing.</skills>  
+  </description>
+  <credits> Credits: 3 </credits>  
+  <prerequisites>Required Prerequisites: ENG 111 </prerequisites>  
+  <semester> Semester Offered: Fall, Spring </semester>  
+</course-list>
+
+<?xml version= "1.0" encoding "UTF"-8?> 
 title {  
  font-weight: bold  
  color: black;  
