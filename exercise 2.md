@@ -21,7 +21,6 @@
   <semester> Semester Offered: Fall, Spring </semester>  
 </course-list>
 
-<?xml version= "1.0" encoding "UTF"-8?> 
 title {  
  font-weight: bold  
  color: black;  
