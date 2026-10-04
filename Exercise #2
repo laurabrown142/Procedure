@@ -14,3 +14,15 @@
   <prerequisites>Required Prerequisites: ENG 111 </prerequisites>
   <semester> Semester Offfered: Fall, Spring </Semester>
 </course-list>
+title {
+ font-weight: bold
+ color: black;
+ text-align: left;
+}
+description {
+ color: gray;
+ text-align: left;
+}
+prerequisites {
+ font-weight: bold;
+}
