@@ -1,1 +1,7 @@
 <?xml version= "1.0" encoding "UTF"-8?> 
+<!ELEMENT course list(title,description+,credits,prerequsities,semester)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (focus,skills)>
+<!ELEMENT credits (#PCDATA)>
+<!ELEMENT prerequisites(#PCDATA)>
+<!ELEMENT semester (#PCDATA)>
